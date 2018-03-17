@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.test.cloud</groupId>
-  <artifactId>frameworkSdk</artifactId>
+  <artifactId>mysdk</artifactId>
   <versioning>
-    <release>null</release>
+    <release>1.0</release>
     <versions>
-      <version>null</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20180317194940</lastUpdated>
+    <lastUpdated>20180317200043</lastUpdated>
   </versioning>
 </metadata>
